@@ -8,7 +8,8 @@
   "main": "src/index.ts",
   "compatibility_date": "2025-02-04",
   "vars": {
-    "api_token": "AIzaSyC3dD0HMAGDXzXC2Z8OmPrfGjLoqacjrrc",
+    "api_token": "AIzaSyC3dD0HMAGDXzXC2Z8OmPrfGjLoqacjrrc"
+  },
   "observability": {
     "enabled": true
   }
